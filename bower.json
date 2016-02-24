@@ -1,0 +1,25 @@
+{
+  "name": "object-assign",
+  "main": "object-assign.js",
+  "authors": [
+    "Bede <bede.overend@gmail.com>"
+  ],
+  "description": "Polyfill for Object Assign",
+  "moduleType": [],
+  "keywords": [
+    "polyfill",
+    "es6",
+    "mdn",
+    "object",
+    "assign"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
