@@ -2,7 +2,7 @@
   "name": "object-assign",
   "main": "object-assign.js",
   "authors": [
-    "Bede <bede.overend@gmail.com>"
+    "Simpla <admin@simpla.io>"
   ],
   "description": "Polyfill for Object Assign",
   "moduleType": [],
